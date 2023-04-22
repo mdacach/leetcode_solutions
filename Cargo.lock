@@ -3,9 +3,17 @@
 version = 3
 
 [[package]]
+name = "lc1"
+version = "0.1.0"
+
+[[package]]
 name = "lc1881"
 version = "0.1.0"
 
 [[package]]
 name = "lc1882"
+version = "0.1.0"
+
+[[package]]
+name = "lc20"
 version = "0.1.0"
